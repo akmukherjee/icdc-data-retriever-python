@@ -69,11 +69,3 @@ Run tests using pytest:
 ```bash
 pytest tests/
 ```
-
-## License
-
-[Your License Here]
-
-## Contributing
-
-[Your Contribution Guidelines Here] 
